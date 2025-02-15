@@ -1,4 +1,4 @@
-TASK 1
+1} TASK 1
 Ceaser Cipher 
 This Python program implements the Caesar Cipher algorithm, allowing users to encrypt and decrypt text by shifting the characters in the message. The program is designed to be user-friendly, with prompts guiding the user through the encryption and decryption process.
 
@@ -13,7 +13,7 @@ Enter Message: Input the message you wish to process.
 Specify Shift: Enter the shift value for the Caesar Cipher.
 View Result: The program displays the encrypted or decrypted message.
 
-TASK 2
+2] TASK 2
 Image Encryption Tool
 This Python program implements a simple image encryption tool using pixel manipulation techniques. The program can encrypt and decrypt images by performing basic mathematical operations on the pixel values. It is designed to be user-friendly, guiding users through the encryption and decryption processes with clear prompts.
 
@@ -39,7 +39,7 @@ Specify the location of the encrypted image.
 
 View Results: The program saves and indicates the location of the encrypted and decrypted images.
 
-TASK 3
+3] TASK 3
 This Python program implements a basic keylogger that records and logs keystrokes. It captures the keys pressed by the user and saves them to a log file, providing an educational tool for understanding how keylogging works. This program includes ethical considerations and requires user consent before running.
 
 Features
